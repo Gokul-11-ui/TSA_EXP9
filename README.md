@@ -1,5 +1,5 @@
 # EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
-### Reg no: 212224230001 
+### Reg no: 212224040091
 
 ### AIM:
 To Create a project on Time series analysis on weather forecasting using ARIMA model in  Python and compare with other models.
